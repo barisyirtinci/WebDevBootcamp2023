@@ -1,5 +1,5 @@
 #API Course-Work
 
-to install required packages >"npm install" 
+to install required packages   >npm install
 
-to run >"node index.js"
+to run   >node index.js
